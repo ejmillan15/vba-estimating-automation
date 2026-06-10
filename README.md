@@ -137,38 +137,6 @@ Summary Generation
 Final Project Estimate
 ```
 
-## Screenshots
-
-### Main Calculator Interface
-
-![Main Calculator](screenshots/calculator/01-main-calculator-interface.png)
-
-### Curtain Style Configuration
-
-![Curtain Style](screenshots/calculator/02-curtain-style-dropdown.png)
-
-### Hardware Configuration
-
-![Hardware Configuration](screenshots/calculator/04-hardware-type-dropdown.png)
-
-### Installation Logic
-
-![Installation Logic](screenshots/calculator/11-installation-logic.png)
-
-### Project Summary
-
-![Summary](screenshots/calculator/13-summary-sheet.png)
-
-### VBA Event Handler Logic
-
-![Event Handler](screenshots/vba-event-handler/VBA%20Event%20Handler%20Logic.png)
-
-### Business Logic Engine
-
-![Business Logic](screenshots/business-logic-engine/CalculateHardwareCost().png)
-
----
-
 ## My Contribution
 
 This project was designed and developed as an internal business automation solution.
